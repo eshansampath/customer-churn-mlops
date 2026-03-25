@@ -1,0 +1,24 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Git
+.gitignore
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Models
+models/*.pkl
+models/*.png
+
+# Environment
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
