@@ -72,7 +72,7 @@ streamlit run dashboard/streamlit_app.py
 
 ### 🔹 Feature Contribution
 
-![SHAP](assets/feature_contribution.png)
+![SHAP](assets/feature_contribution.jpg)
 *Top features influencing the prediction*
 
 ---
